@@ -1,6 +1,6 @@
 {
   "name": "@wemt/uniapp-vue2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A quick development framework based on uniapp vue2",
   "main": "index.js",
   "files": [
