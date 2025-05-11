@@ -1,0 +1,45 @@
+@import './style/uniapp.scss';
+@import './style/flex.scss';
+@import './style/grid.scss';
+@import './style/layout.scss';
+@import './style/color.scss';
+
+.d-none {
+ display: none;
+}
+
+.shadow-none {
+  box-shadow: none !important;
+}
+
+.position-static {
+  position: static !important;
+}
+
+.position-relative {
+  position: relative !important;
+}
+
+.position-absolute {
+  position: absolute !important;
+}
+
+.position-fixed {
+  position: fixed !important;
+}
+
+.position-sticky {
+  position: sticky !important;
+}
+
+.vh-100 {
+  height: 100vh !important;
+}
+
+.min-vh-100 {
+  min-height: 100vh !important;
+}
+
+.status-bar-height {
+	height: var(--status-bar-height);
+}

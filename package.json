@@ -1,0 +1,33 @@
+{
+  "name": "@wemt/uniapp-vue2",
+  "version": "1.0.0",
+  "description": "A quick development framework based on uniapp vue2",
+  "main": "index.js",
+  "files": [
+    "components",
+    "modules",
+    "libraries",
+    "style",
+    "*.js",
+    "*.scss"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uniapp",
+    "vue2",
+    "framework"
+  ],
+  "author": "Wemt",
+  "email": "info@mutaoinc.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutaoinc/wemt-uniapp-vue2.git"
+  },
+  "peerDependencies": {
+    "vue": "^2.6.0",
+    "@dcloudio/uni-app": "^2.0.0"
+  }
+}

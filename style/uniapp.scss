@@ -1,0 +1,25 @@
+uni-modal {
+	.uni-modal {
+		border-radius: 20upx;
+	}
+	.uni-modal__bd {
+		min-height: 100upx;
+	}
+	.uni-modal__ft {
+		font-size: 32upx;
+		line-height: 100upx;
+	}
+	.uni-modal__ft:after, .uni-modal__btn:after {
+		border-top: 1px solid #e4e7ed;
+	}
+}
+
+uni-toast {
+	.uni-sample-toast {
+		
+	}
+	.uni-simple-toast__text {
+		border-radius: 20upx;
+	}
+}
+
